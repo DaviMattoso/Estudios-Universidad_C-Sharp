@@ -36,6 +36,7 @@ temas-universidad/
 │   └── ...
 
 Cada carpeta por ciclo contiene:
+
 El sílabo del curso.
 
 Carpetas por tema, que a su vez contienen:
