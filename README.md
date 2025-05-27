@@ -43,6 +43,7 @@ Esta sección contiene temas de C# que no fueron abordados directamente en la un
 
 🔸 Este material no forma parte del currículo universitario.
 
+
 🧠 Mapa Mental + Checklist
 
 Incluye un mapa mental con checklist de los temas estudiados hasta el momento, ideal para tener una visión general del progreso y de los temas por abordar.
@@ -59,6 +60,7 @@ complemento-csharp/
 Cada carpeta representa un tema específico de C#, organizado de la misma forma que los temas de la universidad.
 
 
+
 🛠️ Tecnologías y herramientas utilizadas
 
 Lenguaje C# – VSCode
@@ -68,6 +70,7 @@ PSeInt – Para pseudocódigo
 Markdown/PDF – Documentación e informes
 
 Mindmap – Organización de temas complementarios
+
 
 📌 Nota final
 
