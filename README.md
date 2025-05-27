@@ -16,6 +16,7 @@ Esta sección agrupa los materiales que he desarrollado como complemento de mis 
 🔸 El idioma del contenido es español, ya que es el idioma oficial de la universidad.
 
 temas-universidad/
+
 ├── 1 ciclo/
 
 │   ├── Silabo.pdf
@@ -60,12 +61,19 @@ Esta sección contiene temas de C# que no fueron abordados directamente en la un
 Incluye un mapa mental con checklist de los temas estudiados hasta el momento, ideal para tener una visión general del progreso y de los temas por abordar.
 
 complemento-csharp/
+
 ├── MapaMental-Checklist.png
+
 ├── Tema1/
+
 │   ├── Informe.pdf
+
 │   ├── Ejercicio.pseint
+
 │   └── Ejercicio.cs
+
 ├── Tema2/
+
 │   └── ...
 
 
