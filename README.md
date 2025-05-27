@@ -30,8 +30,11 @@ Cada carpeta por ciclo contiene:
 El sílabo del curso.
 
 Carpetas por tema, que a su vez contienen:
+
 ->Informes en PDF.
+
 ->Ejercicios en PSeInt.
+
 ->Proyectos o ejercicios en C# utilizando Visual Studio Code.
 
 
@@ -56,6 +59,7 @@ complemento-csharp/
 │   └── Ejercicio.cs
 ├── Tema2/
 │   └── ...
+
 
 Cada carpeta representa un tema específico de C#, organizado de la misma forma que los temas de la universidad.
 
