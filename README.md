@@ -17,13 +17,21 @@ Esta sección agrupa los materiales que he desarrollado como complemento de mis 
 
 temas-universidad/
 ├── 1 ciclo/
+
 │   ├── Silabo.pdf
+
 │   ├── Semana 1/
+
 │   │   ├── Informe.pdf
+
 │   │   ├── Ejercicio.pseint
+
 │   │   └── Ejercicio.cs
+
 │   └── ...
+
 ├── 2 ciclo/
+
 │   └── ...
 
 Cada carpeta por ciclo contiene:
