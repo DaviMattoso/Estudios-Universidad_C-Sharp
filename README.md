@@ -8,7 +8,9 @@ Este repositorio recopila mis estudios relacionados con la programación, princi
 Esta sección agrupa los materiales que he desarrollado como complemento de mis estudios en la Universidad Privada del Norte (UPN), Perú.
 
 🔸 Importante: Todo el contenido aquí compartido es elaborado por mí como parte de mi estudio autodidacta y no corresponde directamente al material entregado por la universidad.
+
 🔸 No se incluyen exámenes, solo informes, ejercicios, y proyectos desarrollados en el transcurso de mi carrera.
+
 🔸 El idioma del contenido es español, ya que es el idioma oficial de la universidad.
 
 temas-universidad/
