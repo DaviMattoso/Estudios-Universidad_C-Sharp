@@ -47,6 +47,7 @@ Carpetas por tema, que a su vez contienen:
 
 ->Proyectos o ejercicios en C# utilizando Visual Studio Code.
 
+-----------------------------------------------------------------------------------------------
 
 🧩 Complemento de Temas sobre C# (Estudio Autodidacta)
 
