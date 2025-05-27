@@ -2,7 +2,7 @@
 
 📚 Repositorio de Estudios Universitarios y Complementarios en Programación
 
-Este repositorio recopila mis estudios relacionados con la programación, principalmente en los lenguajes C#, pseudocódigo (PSeInt) y temas de base de datos, realizados durante mi formación universitaria y mediante estudio autodidacta. Está dividido en dos secciones principales: Temas de la universidad y Complemento de temas sobre C#.
+Este repositorio recopila mis estudios relacionados con la programación, principalmente en los lenguajes C#, lógica (PSeInt) y temas de base de datos, realizados durante mi formación universitaria y mediante estudio autodidacta. Está dividido en dos secciones principales: Temas de la universidad y Complemento de temas sobre C#.
 
 
 🏫 Temas Universidad (UPN)
