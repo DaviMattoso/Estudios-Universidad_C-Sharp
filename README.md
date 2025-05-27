@@ -6,6 +6,7 @@ Este repositorio recopila mis estudios relacionados con la programación, princi
 
 
 🏫 Temas Universidad (UPN)
+
 Esta sección agrupa los materiales que he desarrollado como complemento de mis estudios en la Universidad Privada del Norte (UPN), Perú.
 
 🔸 Importante: Todo el contenido aquí compartido es elaborado por mí como parte de mi estudio autodidacta y no corresponde directamente al material entregado por la universidad.
@@ -35,12 +36,15 @@ Carpetas por tema, que a su vez contienen:
 
 
 🧩 Complemento de Temas sobre C# (Estudio Autodidacta)
+
 Esta sección contiene temas de C# que no fueron abordados directamente en la universidad, pero que estudio por iniciativa propia.
 
 🔸 El contenido está en portugués, ya que me resulta más cómodo y eficiente estudiar este lenguaje en ese idioma.
+
 🔸 Este material no forma parte del currículo universitario.
 
 🧠 Mapa Mental + Checklist
+
 Incluye un mapa mental con checklist de los temas estudiados hasta el momento, ideal para tener una visión general del progreso y de los temas por abordar.
 
 complemento-csharp/
@@ -56,6 +60,7 @@ Cada carpeta representa un tema específico de C#, organizado de la misma forma 
 
 
 🛠️ Tecnologías y herramientas utilizadas
+
 Lenguaje C# – VSCode
 
 PSeInt – Para pseudocódigo
@@ -65,5 +70,6 @@ Markdown/PDF – Documentación e informes
 Mindmap – Organización de temas complementarios
 
 📌 Nota final
+
 Este repositorio es una herramienta de estudio personal, abierta para quien quiera inspirarse o aprender con base en estos contenidos. No representa de forma oficial a la universidad ni sustituye el aprendizaje institucional.
 
