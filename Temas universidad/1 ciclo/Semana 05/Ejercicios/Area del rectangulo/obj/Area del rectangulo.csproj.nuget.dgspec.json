@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 05\\Area del rectangulo\\Area del rectangulo.csproj": {}
+    "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 05\\Ejercicios\\Area del rectangulo\\Area del rectangulo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 05\\Area del rectangulo\\Area del rectangulo.csproj": {
+    "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 05\\Ejercicios\\Area del rectangulo\\Area del rectangulo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 05\\Area del rectangulo\\Area del rectangulo.csproj",
+        "projectUniqueName": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 05\\Ejercicios\\Area del rectangulo\\Area del rectangulo.csproj",
         "projectName": "Area del rectangulo",
-        "projectPath": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 05\\Area del rectangulo\\Area del rectangulo.csproj",
+        "projectPath": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 05\\Ejercicios\\Area del rectangulo\\Area del rectangulo.csproj",
         "packagesPath": "C:\\Users\\Davi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 05\\Area del rectangulo\\obj\\",
+        "outputPath": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 05\\Ejercicios\\Area del rectangulo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

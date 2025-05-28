@@ -14,6 +14,6 @@ class Program
 
         area = largo * ancho; // Operación para calcular área
 
-        Console.WriteLine("El area del rectangulo es:" + area); // Salida del resultado
+        Console.WriteLine($"El area del rectangulo es: {area}"); // Salida del resultado
     }
 }

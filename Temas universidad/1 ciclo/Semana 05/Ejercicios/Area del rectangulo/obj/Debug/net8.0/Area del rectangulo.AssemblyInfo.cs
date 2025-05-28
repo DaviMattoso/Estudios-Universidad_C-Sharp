@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Area del rectangulo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+824c5eb90f80e5a9a63d0df938e0fe9dd21836c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90e28683286e1288452f4191e3812d6318350cf9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Area del rectangulo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Area del rectangulo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
