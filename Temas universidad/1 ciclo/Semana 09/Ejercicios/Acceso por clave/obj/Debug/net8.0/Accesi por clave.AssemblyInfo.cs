@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Accesi por clave")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71824429a03024006b46ebfd7273db9f78650386")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe2629b4bafa9504a9238309d26c75bc1cd63938")]
 [assembly: System.Reflection.AssemblyProductAttribute("Accesi por clave")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Accesi por clave")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 09\\Ejercicios\\Accesi por clave\\Accesi por clave.csproj": {}
+    "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 09\\Ejercicios\\Acceso por clave\\Accesi por clave.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 09\\Ejercicios\\Accesi por clave\\Accesi por clave.csproj": {
+    "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 09\\Ejercicios\\Acceso por clave\\Accesi por clave.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 09\\Ejercicios\\Accesi por clave\\Accesi por clave.csproj",
+        "projectUniqueName": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 09\\Ejercicios\\Acceso por clave\\Accesi por clave.csproj",
         "projectName": "Accesi por clave",
-        "projectPath": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 09\\Ejercicios\\Accesi por clave\\Accesi por clave.csproj",
+        "projectPath": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 09\\Ejercicios\\Acceso por clave\\Accesi por clave.csproj",
         "packagesPath": "C:\\Users\\Davi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 09\\Ejercicios\\Accesi por clave\\obj\\",
+        "outputPath": "C:\\Users\\Davi\\Documents\\REP-Estudios-Universidad_C-Sharp\\Estudios-Universidad_C-Sharp\\Temas universidad\\1 ciclo\\Semana 09\\Ejercicios\\Acceso por clave\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

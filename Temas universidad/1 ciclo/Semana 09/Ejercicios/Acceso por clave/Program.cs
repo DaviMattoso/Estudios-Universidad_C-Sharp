@@ -6,7 +6,7 @@
         {
             string contraseñacorrecta, conraseñaingresada;
 
-            contraseñacorrecta = "abcd123"; //Toda definicio de string tiene que seguir con comillas
+            contraseñacorrecta = "abcd123"; //Toda definición de string tiene que seguir con comillas
 
             Console.WriteLine("Ingrese la contraseña:");
             conraseñaingresada = Console.ReadLine();
